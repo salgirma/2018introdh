@@ -8,6 +8,30 @@ R studio highlighted four cases as the gatekeepers between the clusters or commu
 
 I found the centrality, clusters and gatekeeper tool most useful when analyzing my data set. One of the downsides of networks is that they flatten time and often it is hard to distinguish it. This dataset tackles that issue by dating the Supreme Court cases. This data specifically was really good at showing the dates visibly to see the clear. 
 
+![alt text](https://github.com/introdh/intro-dh2018-salgirma/blob/master/images/Screen%20Shot%202018-11-01%20at%2011.10.15%20PM.png "Logo Title Text 1")
+
+Clusters Network
+
+![alt text](https://github.com/introdh/intro-dh2018-salgirma/blob/master/images/Screen%20Shot%202018-11-01%20at%2011.09.24%20PM.png "Logo Title Text 1")
+
+Centrality Network
+
+![alt text](https://github.com/introdh/intro-dh2018-salgirma/blob/master/images/Screen%20Shot%202018-11-01%20at%2011.13.01%20PM.png "Logo Title Text 1")
+
+Year Network
+
+![alt text](https://github.com/introdh/intro-dh2018-salgirma/blob/master/images/Screen%20Shot%202018-11-01%20at%2011.13.35%20PM.png "Logo Title Text 1")
+
+Vote Network
+
+![alt text](https://github.com/introdh/intro-dh2018-salgirma/blob/master/images/Screen%20Shot%202018-11-01%20at%2011.14.20%20PM.png "Logo Title Text 1")
+
+Issue Network
+
+![alt text](https://github.com/introdh/intro-dh2018-salgirma/blob/master/images/Screen%20Shot%202018-11-01%20at%206.06.22%20PM.png "Logo Title Text 1")
+
+Gatekeeper Network
+
 
 Citations 
 
